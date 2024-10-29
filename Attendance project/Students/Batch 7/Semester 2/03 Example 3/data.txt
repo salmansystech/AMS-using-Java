@@ -1,0 +1,7 @@
+<html>
+Name : Example 3
+<br>Father Name : Father Name
+<br>Batch : 7
+<br>Semester : 2
+<br>Contact : 03332222222
+</html>

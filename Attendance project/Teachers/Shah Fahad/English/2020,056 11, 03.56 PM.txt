@@ -1,0 +1,7 @@
+*Summary of attendance at 2020,056 11, 03.56 PM*
+Total Students: 7
+Present Students: 4
+Absent Students: 3
+Attendace percentage: 57.142857%
+Absence percentage: 42.857143%
+<br>Absent Students are : <b>Roll no.02 Example 2</b><br><b>Roll no.05 Example 5</b><br><b>Roll no.07 Example 7</b>

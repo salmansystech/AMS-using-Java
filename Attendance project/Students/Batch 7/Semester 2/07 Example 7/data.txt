@@ -1,0 +1,5 @@
+Name : Example 7
+Father Name : Father NAme
+Batch : 7
+Semester : 2
+Contact : 033332323
